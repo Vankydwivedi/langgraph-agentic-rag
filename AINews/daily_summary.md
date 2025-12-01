@@ -1,23 +1,18 @@
 # Daily AI News Summary
 
-Here is the summary of AI news articles in markdown format:
-
-### 2025-06-09
-
-* [AI helps detect rare diseases in adults](https://www.mobihealthnews.com/news/exclusive-pangea-data-astrazenecas-alexion-partner-spot-rare-disease-ehrs) - Pangea Data and Alexion are partnering to develop an AI-enabled offering to detect hypophosphatasia in adults.
-* [AI protocol for future interactions with autonomous systems](https://www.businessinsider.com/ai-protocol-rules-future-2025-6) - Google has launched Agent2Agent, a protocol for AI agents to communicate with each other and humans.
-* [AI system helps visually impaired individuals explore unfamiliar environments](https://www.news-medical.net/news/20250608/AI-transforms-sightseeing-for-visually-impaired-users.aspx) - Researchers have developed an AI-driven system to help visually impaired individuals explore and understand unfamiliar environments.
-* [Smart Agriculture Market Trends: AI, IoT, and Precision Farming Shaping the Future of AgriTech](https://www.openpr.com/news/4057041/smart-agriculture-market-trends-ai-iot-and-precision-farming) - The Smart Agriculture Market is expected to grow with the adoption of AI, IoT, and precision farming.
-* [Apple's AI ambitions face regulatory challenges](https://www.reuters.com/business/wwdc-apple-faces-ai-regulatory-challenges-it-woos-software-developers-2025-06-09/) - Apple is facing regulatory challenges in its AI ambitions, despite being a leader in the field.
-* [Palantir's meteoric climb raises concerns about its AI leadership](https://www.forbes.com/sites/greatspeculations/2025/06/09/palantir-stock-soars---but-is-the-risk-worth-it/) - Palantir's stock has soared, but some experts are concerned about the company's AI leadership and sustainability.
-* [Photonic quantum chips make AI smarter and greener](http://www.sciencedaily.com/releases/2025/06/250608222002.htm) - Researchers have developed photonic quantum chips that can make AI smarter and more energy-efficient.
-* [AI-driven robots are rewriting the factory rulebook](https://www.forbes.com/sites/jonathanreichental/2025/06/08/ai-driven-robots-are-rewriting-the-factory-rulebook/) - AI-driven robots are transforming the manufacturing industry, enabling new forms of automation and productivity.
-* [AIB Group sells minority stake in AIBMS to Fiserv](https://www.fintechfutures.com/m-a/aib-group-sells-minority-stake-in-aib-merchant-services-to-fiserv) - AIB Group has sold its minority stake in AIBMS to Fiserv, a US fintech giant.
-* [YXT.com's AI Learning Platform Deployed by Siemens for Digital Workforce Transformation](https://www.tradingview.com/news/reuters.com,2025-06-09:newsml_GNX7HzZPv:0-yxt-com-s-ai-learning-platform-deployed-by-siemens-for-digital-workforce-transformation/) - Siemens has deployed YXT.com's AI Learning Platform to support its digital workforce transformation.
-* [UK leads Europe in smart manufacturing with AI](https://www.themanufacturer.com/articles/daily-manufacturing-news-digest-the-industry-stories-you-should-be-aware-of-today-090625/) - The UK is leading Europe in smart manufacturing with AI, according to a report by Rockwell Automation.
-* [AI's next frontier: Predicting your sleep needs](https://www.theleader.com.au/story/8987672/ais-next-frontier-predicting-your-sleep-needs/) - Researchers are using AI to predict sleep needs and improve sleep quality.
-* [New Report: How Travel Marketers Are Using AI](https://skift.com/2025/06/09/ai-strategies-travel-marketers/) - A new report reveals how travel marketers are using AI to drive business growth and make better decisions.
-* [AI models still far from AGI-level reasoning](https://cointelegraph.com/news/artificial-general-intelligence-long-way-off-apple) - Apple researchers have found that current AI models are still far from achieving AGI-level reasoning.
-* [No matter what happens at WWDC today, I'm never using this AI feature on my iPhone 16](https://www.cnet.com/tech/mobile/no-matter-what-happens-at-wwdc-today-im-never-using-this-ai-feature-on-my-iphone-16/) - Apple's new AI feature may not be as exciting as expected, according to a CNET article.
-* [Need a Chief AI Officer? Look to these British orgs that have made the hire](https://hrexecutive.com/need-a-chief-ai-officer-look-to-these-british-orgs-that-have-made-the-hire/) - The UK is leading the way in AI adoption, with several organizations hiring Chief AI Officers to lead their AI initiatives.
-* [Ukraine's naval drone success forces Russia into retreat](https://www.maritime-executive.com/editorials/small-craft-big-impact-ukraine-s-war-and-the-rise-of-new-tech-warships) - Ukraine's use of naval drones has forced Russia into retreat, and the US Navy is taking note of the success.
+### **2025-12-01**
+- [Microsoft Announces Major Workforce Restructuring and AI Investment Shift](https://inews.zoombangla.com/microsoft-announces-major-workforce-restructuring-and-ai-investment-shift/) 
+- [Expedia Hires Former Google VP as First Chief AI Officer](https://skift.com/2025/12/01/expedia-chief-ai-officer-google-xavier-amatriain/)
+- [Runway Rolls Out New AI Video Model That Beats Google, OpenAI in Key Benchmark](https://www.cnbc.com/2025/12/01/runway-gen-4-5-video-model-google-open-ai.html)
+- [Nvidia Invests $2 Billion in Chip Design Software Maker Synopsys](https://www.reuters.com/technology/nvidia-invests-2-billion-chip-design-software-provider-synopsys-2025-12-01/)
+- [Stellantis’ French Production Set for 11% Drop by 2028, Report Says](https://www.autonews.com/stellantis/ane-stellantis-production-france-fall-sales-1201/)
+- [How China Is Using AI to Extend Censorship and Surveillance](https://www.washingtonpost.com/world/2025/12/01/china-ai-censorship-surveillance/)
+- [HSBC Taps Mistral to Supercharge Generative AI Rollout](https://www.itnews.com.au/news/hsbc-taps-mistral-to-supercharge-generative-ai-rollout-622233)
+- [Recursion’s Incoming CEO on Turning AI Drugs Into Clinical Proof Points](https://www.genengnews.com/topics/artificial-intelligence/recursions-incoming-ceo-on-turning-ai-drugs-into-clinical-proof-points)
+- [AI Spending Surge Prompts Companies to Wrestle with Its Worth](https://news.bloomberglaw.com/legal-ops-and-tech/ai-spending-surge-prompts-companies-to-wrestle-with-its-worth)
+- [Weeks, Minutes: How AI Transforms Pharmaceutical Market Entry Strategy](https://pharmaphorum.com/digital/weeks-minutes-how-ai-transforms-pharmaceutical-market-entry-strategy)
+- [Cybersecurity M&A Roundup: Cyber Giants Strengthen AI Security Offerings](https://www.infosecurity-magazine.com/news/cyber-deals-november-2025/)
+- [How AI Will Deliver Real Business Value](https://www.itnews.com.au/resource/how-ai-will-deliver-real-business-value-622209)
+- [The Multicloud Imperative](https://www.itnews.com.au/resource/the-multicloud-imperative-622208)
+- [Your Multicloud Advantage](https://www.itnews.com.au/resource/your-multicloud-advantage-622207)
+- [The Cloud Tipping Point](https://www.itnews.com.au/resource/the-cloud-tipping-point-622210)
