@@ -1,8 +1,8 @@
-🧠 LangGraph Agentic AI News Generator</h2>
+<h2>🧠 LangGraph Agentic AI News Generator</h2>
 
-
+<p>
 An agentic AI system built using LangGraph and Groq LLMs that autonomously researches, processes, and generates high-quality news content from user input.
-
+</p>
 
 ---
 
@@ -48,7 +48,9 @@ Final Generated News Output
 
 yaml
 Copy code
+
 ---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
