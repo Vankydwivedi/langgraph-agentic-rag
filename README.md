@@ -1,143 +1,8 @@
-🧠 LangGraph Agentic AI News Generator
+<h2 align="center">🧠 LangGraph Agentic AI News Generator</h2>
 
-An agentic news generation system built using LangGraph and Groq LLMs that autonomously researches, processes, and generates high-quality news content from user input.
-The project features a modular graph-based workflow, Streamlit UI, and production deployment on Hugging Face Spaces.
-
-🚀 Overview
-
-This project demonstrates an Agentic AI system where multiple intelligent components work together using a state-based graph architecture to:
-
-✅ Accept user-provided topics
-✅ Retrieve and reason about information
-✅ Generate structured, high-quality news articles
-✅ Run using ultra-fast inference via Groq LLMs
-✅ Provide an interactive Streamlit interface
-
-The system is designed to be scalable, modular, and production-ready.
-
-✨ Features
-
-✅ LangGraph-based agent workflow
-
-✅ Groq LLM integration for fast inference
-
-✅ Agent-based decision routing
-
-✅ Streamlit UI
-
-✅ Hugging Face Spaces deployment
-
-✅ Environment-based secret management
-
-✅ Clean modular architecture
-
-🏗️ Project Architecture
-User Input
-   ↓
-Streamlit UI
-   ↓
-LangGraph Orchestrator
-   ↓
-Agent Nodes (Reasoning, Tools, Chat)
-   ↓
-Groq LLM
-   ↓
-Final Generated News Output
-
-📁 Project Structure
-src/
-│
-├── langgraphagenticai/
-│   ├── LLMs/
-│   │   └── groqllm.py
-│   │
-│   ├── nodes/
-│   │   ├── ai_news_node.py
-│   │   ├── basic_chatbot_node.py
-│   │   └── chatbot_with_tool_node.py
-│   │
-│   ├── state/
-│   │
-│   ├── tools/
-│
-├── ui/
-│   ├── streamlitui/
-│   │   ├── display_result.py
-│   │   ├── loadui.py
-│
-├── main.py              # LangGraph entry
-├── app.py               # Streamlit entry
-├── uiconfig.ini         # UI configuration
-├── requirements.txt     # Dependencies
-
-⚙️ Local Setup & Run
-1️⃣ Clone Repository
-git clone https://github.com/Vankydwivedi/langgraph-agentic-rag.git
-cd langgraph-agentic-rag
-
-2️⃣ Create Virtual Environment
-python -m venv venv
-venv\Scripts\activate     # Windows
-source venv/bin/activate  # Linux/Mac
-
-3️⃣ Install Dependencies
-pip install -r requirements.txt
-
-4️⃣ Set Environment Variables
-
-Create .env file or export variables:
-
-GROQ_API_KEY=your_groq_api_key_here
-
-
-If using Hugging Face Spaces, add this inside Secrets.
-
-5️⃣ Run Application
-streamlit run app.py
-
-
-App will start at:
-
-http://localhost:8501
-
-🌍 Deployment (Hugging Face Spaces)
-
-This project is deployed on Hugging Face Spaces.
-
-Steps:
-
-Connect GitHub repo to HF Spaces
-
-Set:
-
-GROQ_API_KEY=<your_key>
-
-
-Deploy
-
-🛠 Tech Stack
-Layer	Technology
-UI	Streamlit
-LLM	Groq
-Agent Framework	LangGraph
-Language	Python
-Deployment	Hugging Face Spaces
-State Management	Graph-based agent orchestration
-🔮 Future Improvements
-
-Multi-agent collaboration
-
-You said:
-give a markdown code bruh
-ChatGPT said:
-
-Here you go — FULL README.md in markdown code (copy–paste ready).
-No explanations. Just the file as you asked 👇
-
-# 🧠 LangGraph Agentic AI News Generator
-
-An **agentic news generation system** built using LangGraph and Groq LLMs that autonomously researches, processes, and generates high-quality news content from user input.  
-The project features a modular graph-based workflow, Streamlit UI, and production deployment on Hugging Face Spaces.
+<p align="center">
+An agentic AI system built using LangGraph and Groq LLMs that autonomously researches, processes, and generates high-quality news content from user input.
+</p>
 
 ---
 
@@ -169,8 +34,6 @@ The system is designed to be **scalable, modular, and production-ready**.
 
 ## 🏗️ Architecture
 
-
-
 User Input
 ↓
 Streamlit UI
@@ -183,12 +46,12 @@ Groq LLM
 ↓
 Final Generated News Output
 
+yaml
+Copy code
 
 ---
 
 ## 📁 Project Structure
-
-
 
 src/
 │
@@ -215,59 +78,63 @@ src/
 ├── uiconfig.ini # UI configuration
 ├── requirements.txt # Dependencies
 
+yaml
+Copy code
 
 ---
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/Vankydwivedi/langgraph-agentic-rag.git
 cd langgraph-agentic-rag
-
-2️⃣ Create Virtual Environment
+2️⃣ Create a virtual environment
+bash
+Copy code
 python -m venv venv
-
-
 Activate:
 
 Windows
 
+bash
+Copy code
 venv\Scripts\activate
+Mac / Linux
 
-
-Mac/Linux
-
+bash
+Copy code
 source venv/bin/activate
-
-3️⃣ Install Dependencies
+3️⃣ Install dependencies
+bash
+Copy code
 pip install -r requirements.txt
-
 🔐 Environment Variables
+Create a .env file (or add secrets on Hugging Face):
 
-Create a .env file or set a secret in Hugging Face:
-
+env
+Copy code
 GROQ_API_KEY=your_groq_api_key_here
-
 ▶️ Run Locally
+bash
+Copy code
 streamlit run app.py
+Open in browser:
 
-
-Open app:
-
+arduino
+Copy code
 http://localhost:8501
-
 🌍 Deployment (Hugging Face Spaces)
+Create Space → Streamlit app
 
-Create Space → Streamlit
-
-Link GitHub repo
+Connect GitHub repo
 
 Add secret:
 
+env
+Copy code
 GROQ_API_KEY=your_groq_api_key_here
-
-
 Deploy ✅
 
 🛠 Tech Stack
@@ -277,14 +144,15 @@ LLM	Groq
 Orchestration	LangGraph
 Language	Python
 Deployment	Hugging Face Spaces
-🔮 Future Enhancements
 
+🔮 Future Enhancements
 Multi-agent collaboration
 
-Web search tools
+Live web data ingestion
 
-News categorization
+News summarization mode
 
-Summarization mode
+Category classification
 
-Model switching support
+Memory persistence
+
