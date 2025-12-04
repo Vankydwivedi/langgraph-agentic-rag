@@ -1,8 +1,8 @@
-<h2 align="center">🧠 LangGraph Agentic AI News Generator</h2>
+🧠 LangGraph Agentic AI News Generator</h2>
 
-<p align="center">
+
 An agentic AI system built using LangGraph and Groq LLMs that autonomously researches, processes, and generates high-quality news content from user input.
-</p>
+
 
 ---
 
@@ -48,41 +48,7 @@ Final Generated News Output
 
 yaml
 Copy code
-
 ---
-
-## 📁 Project Structure
-
-src/
-│
-├── langgraphagenticai/
-│ ├── LLMs/
-│ │ └── groqllm.py
-│ │
-│ ├── nodes/
-│ │ ├── ai_news_node.py
-│ │ ├── basic_chatbot_node.py
-│ │ └── chatbot_with_tool_node.py
-│ │
-│ ├── state/
-│ │
-│ ├── tools/
-│
-├── ui/
-│ ├── streamlitui/
-│ │ ├── display_result.py
-│ │ ├── loadui.py
-│
-├── main.py # LangGraph entry
-├── app.py # Streamlit entry
-├── uiconfig.ini # UI configuration
-├── requirements.txt # Dependencies
-
-yaml
-Copy code
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
